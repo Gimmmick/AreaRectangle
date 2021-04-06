@@ -1,8 +1,6 @@
 # AreaRectangle
 
-Starting Out with C++ from Control Structures to Objects, 9th edition
-
-Tony Gaddis
+Starting Out with C++ from Control Structures to Objects, 9th edition Tony Gaddis
 
 Chapter 6, Programming Challenge 2
 
